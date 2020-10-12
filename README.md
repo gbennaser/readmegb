@@ -1,2 +1,0 @@
-# readmegb
-readme gianfranco
